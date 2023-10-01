@@ -6,7 +6,7 @@
 
 Hi, Im Le Van Duy, a Backend Developer with a deep passion for building and developing web applications and online services. I have had the opportunity to work on various exciting and diverse projects, ranging from small web applications to complex and large-scale systems.
 
-I possess a solid knowledge of programming languages such as PHP, Laravel, Node.js, NestJS, React... as well as the ability to work with database technologies like Mysql, PostgreSQL, MongoDB... . I have experience in constructing and optimizing APIs, ensuring stability and performance for applications.
+I possess a solid knowledge of programming languages such as PHP, Laravel, Node.js, NestJS, React... as well as the ability to work with database technologies like Mysql, PostgreSQL, MongoDB... I have experience in constructing and optimizing APIs, ensuring stability and performance for applications.
 
 Furthermore, I always stay up-to-date with emerging trends in the technology industry and continually strive to improve my skills. I enjoy tackling technical challenges and offering innovative solutions to meet project requirements.
 
