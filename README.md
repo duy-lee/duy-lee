@@ -1,10 +1,10 @@
 ## Hello World 👋
 
 <div align="center">
-  <img width="300" src="./hello.gif">
+  <img width="300" src="./b2325557a903fdf56b50da4656da9221.gif">
 </div>
 
-Hi, Im [Le Van Duy], a Backend Developer with a deep passion for building and developing web applications and online services. I have had the opportunity to work on various exciting and diverse projects, ranging from small web applications to complex and large-scale systems.
+Hi, Im Le Van Duy, a Backend Developer with a deep passion for building and developing web applications and online services. I have had the opportunity to work on various exciting and diverse projects, ranging from small web applications to complex and large-scale systems.
 
 I possess a solid knowledge of programming languages such as PHP, Laravel, Node.js, NestJS, React... as well as the ability to work with database technologies like Mysql, PostgreSQL, MongoDB... . I have experience in constructing and optimizing APIs, ensuring stability and performance for applications.
 
