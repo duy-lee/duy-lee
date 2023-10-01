@@ -22,5 +22,5 @@ Furthermore, I always stay up-to-date with emerging trends in the technology ind
 </div>
 <br />
 <div align="center">
-  <img alt="GIF" src="./dance.gif" width="300"/>
+  <img alt="GIF" src="./485227e7e0a2bc91c636a0785b678d50.gif" width="300"/>
 </div>
