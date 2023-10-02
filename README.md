@@ -1,7 +1,7 @@
 ## Hello World 👋
 
 <div align="center">
-  <img width="300" src="./b2325557a903fdf56b50da4656da9221.gif">
+  <img width="300" src="./icon_1.gif">
 </div>
 
 Hi, Im Le Van Duy, a Backend Developer with a deep passion for building and developing web applications and online services. I have had the opportunity to work on various exciting and diverse projects, ranging from small web applications to complex and large-scale systems.
@@ -22,5 +22,5 @@ Furthermore, I always stay up-to-date with emerging trends in the technology ind
 </div>
 <br />
 <div align="center">
-  <img alt="GIF" src="./485227e7e0a2bc91c636a0785b678d50.gif" width="300"/>
+  <img alt="GIF" src="./icon_2.gif" width="300"/>
 </div>
